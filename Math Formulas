@@ -1,1 +1,3 @@
 Sum of GP= (n/2)*(2*a +(N-1)*d)
+from Goldbach's conjecture we know that every even number can be represented as a sum of two prime numbers
+maximum distance between two consecutive primes less than 10^9 is not more than 300
